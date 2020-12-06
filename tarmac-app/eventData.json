@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Central Park Bunch Ride 8AM",
+        "category": "Featured",
+        "city": "New York",
+        "state": "New York",
+        "id": 1001,
+        "park": "Central Park",
+        "coordinates": {
+            "longitude": -73.968285,
+            "latitude": 40.785091
+        },
+        "imageName": "centralpark"
+    },
+    {
+        "name": "Prospect Park Bunch Ride 8.30AM",
+        "category": "Featured",
+        "city": "Brooklyn",
+        "state": "New York",
+        "id": 1002,
+        "park": "Prospect Park",
+        "coordinates": {
+            "longitude": -73.969749,
+            "latitude": 40.665535
+        },
+        "imageName": "pp"
+    }
+    
+]
